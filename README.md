@@ -1,5 +1,9 @@
 # ![minecart routing](assets/logo.svg)
 
+### Fork of duchkitten
+I have added the option to make trains run without a player inside. You can now put the tickets into minecart chests on the train and the switches will detect them.
+
+
 A Minecraft plugin for Spigot/Paper/Purpur which adds ticket based filtering for detector rails. This enables the creation of advanced minecart routing systems.
 
 Minecart Routing is entirely server-side, clients don't need to install anything for the plugin to function.
