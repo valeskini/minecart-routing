@@ -3,4 +3,5 @@ version: '1.0-SNAPSHOT'
 main: ec.brooke.minecartrouting.MinecartRouting
 api-version: '1.21'
 authors: [ brooke.ec ]
+softdepend: [MinecartTrains]
 description: Reuse oxidized copper golems for computational tasks
